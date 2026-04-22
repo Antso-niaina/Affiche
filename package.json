@@ -3,10 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://Antso-niaina.github.io/Affiche",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",
@@ -66,6 +68,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.2",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.0.0",
     "tw-animate-css": "^1.0.0",
     "vite": "^5.4.8"
