@@ -291,7 +291,7 @@ export default function Home() {
                 </p>
                 <div className="flex items-center gap-4 text-mc-yellow font-bold">
                   <Flame className="w-6 h-6" />
-                  Le phénix renaît de ses cendres
+                  Le phoénix renaît de ses cendres
                 </div>
               </motion.div>
 
