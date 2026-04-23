@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/theatre-mcdo/", // ⚠️ TRÈS IMPORTANT (nom de ton repo)
+  base: "/Affiche/", // ⚠️ TRÈS IMPORTANT (nom de ton repo)
 
   server: {
     host: "::",
